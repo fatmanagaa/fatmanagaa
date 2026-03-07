@@ -1,7 +1,7 @@
 <h1 align="center">Fatma Gomaa Fawzy | Flutter Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+High-Quality+Mobile+Applications;Focused+on+Clean+Architecture+and+State+Management;Passionate+About+Flutter+%F0%9F%94%A5" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Building+Efficient+and+Scalable+Mobile+Apps;Focused+on+Clean+Architecture+and+State+Management;Passionate+About+Flutter+%F0%9F%94%A5" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -32,6 +32,21 @@
   <img src="https://img.shields.io/badge/Languages-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Languages-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatmaaagomaaa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaagomaaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaaagomaaa&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
 </p>
 
 ---
