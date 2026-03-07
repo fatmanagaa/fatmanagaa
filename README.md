@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">🔥 Welcome to Fatma Gomaa Fawzy's Coding Universe 🔥</h1>
 
-<!--
-**fatmanagaa/fatmanagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Building+Amazing+Mobile+Apps!;Passionate+about+Coding+%F0%9F%94%A5" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatmaaagomaaa&label=🔥+Profile+Views&color=ff4500&style=flat" alt="Profile views" />
+  <a href="https://github.com/fatmaaagomaaa"><img src="https://img.shields.io/github/followers/fatmaaagomaaa?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://linkedin.com/in/fatma-gomaa-52b776280"><img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+
+- 💻 **Flutter Developer** with a passion for creating sleek, high-performance mobile apps.
+- 🚀 Currently exploring **State Management, Clean Architecture, and CI/CD**.
+- ✍️ Sharing insights & thoughts on **[LinkedIn](https://linkedin.com/in/fatma-gomaa-52b776280)**.
+- 💬 Ask me anything about **Flutter, Dart, Mobile Development, or APIs**!
+
+---
+
+### ⚡ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Languages-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Languages-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/fatma-gomaa-52b776280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/fatmaaagomaaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:fatmanaga43@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ Keep Coding & Keep Shining! ⚡</p>
