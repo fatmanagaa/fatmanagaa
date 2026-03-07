@@ -36,21 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatmaaagomaaa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaagomaaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaaagomaaa&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
