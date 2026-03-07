@@ -1,11 +1,11 @@
-<h1 align="center">🔥 Welcome to Fatma Gomaa Fawzy's Coding Universe 🔥</h1>
+<h1 align="center">Fatma Gomaa Fawzy | Flutter Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Building+Amazing+Mobile+Apps!;Passionate+about+Coding+%F0%9F%94%A5" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+High-Quality+Mobile+Applications;Focused+on+Clean+Architecture+and+State+Management;Passionate+About+Flutter+%F0%9F%94%A5" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatmaaagomaaa&label=🔥+Profile+Views&color=ff4500&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fatmaaagomaaa&label=Profile+Views&color=ff4500&style=flat" alt="Profile views" />
   <a href="https://github.com/fatmaaagomaaa"><img src="https://img.shields.io/github/followers/fatmaaagomaaa?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="https://linkedin.com/in/fatma-gomaa-52b776280"><img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue" alt="LinkedIn"></a>
 </p>
@@ -14,10 +14,10 @@
 
 ### 🌟 About Me
 
-- 💻 **Flutter Developer** with a passion for creating sleek, high-performance mobile apps.
-- 🚀 Currently exploring **State Management, Clean Architecture, and CI/CD**.
-- ✍️ Sharing insights & thoughts on **[LinkedIn](https://linkedin.com/in/fatma-gomaa-52b776280)**.
-- 💬 Ask me anything about **Flutter, Dart, Mobile Development, or APIs**!
+💻 **Flutter Developer** specializing in building efficient, scalable, and maintainable mobile applications.  
+🚀 Experienced in **Flutter, Dart, Firebase, State Management, Clean Architecture, API integration, Git, and Figma**.  
+✍️ Sharing insights & professional experiences on **[LinkedIn](https://linkedin.com/in/fatma-gomaa-52b776280)**.  
+💬 Open to collaboration and discussions about **Mobile Development, Flutter, Dart, and Modern App Architectures**.
 
 ---
 
