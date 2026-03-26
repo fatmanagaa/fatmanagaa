@@ -52,4 +52,20 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaaagomaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaaagomaaa&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaaagomaaa&theme=redical" alt="Contributions Graph" />
+</p>
+
+---
+
 <p align="center">⚡ Keep Coding & Keep Shining! ⚡</p>
