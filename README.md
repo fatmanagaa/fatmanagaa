@@ -52,4 +52,25 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaaagomaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaagomaaa&theme=radical&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fatmaaagomaaa&theme=radical&hide_total_contributions=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaaagomaaa&theme=radical&include_all_commits=true" alt="Contributions Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatmaaagomaaa&theme=radical&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 <p align="center">⚡ Keep Coding & Keep Shining! ⚡</p>
