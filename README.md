@@ -1,4 +1,4 @@
-<h1 align="center">Fatma Gomaa Fawzy | Flutter Developer</h1>
+<h1 align="center">Fatma Gomaa Fawzy | Software Engineer | Flutter Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=400&lines=Building+Efficient+and+Scalable+Mobile+Apps;Focused+on+Clean+Architecture+and+State+Management;Passionate+About+Flutter+%F0%9F%94%A5" alt="Typing SVG">
